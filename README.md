@@ -38,4 +38,3 @@ Storefront aims to provide a reliable, secure, and feature-rich platform for bot
 
 ---
 
-**Note:** Please make sure to update this README with specific instructions, installation steps, and any other relevant details for users and contributors.
